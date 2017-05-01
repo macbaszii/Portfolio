@@ -12,7 +12,7 @@ So I used my free time to made it myself.
   
 ![Planney](/Planney/Planney.png)
 
-## Piggy Bank
+## Coining
 Piggy Bank, by the name of this app. It is an app for connecting the real device that can recognize the coins and track saving money and see summary by week, month and year.
 * _**What I've learnt**_
   * Developed using Swift 3
@@ -20,6 +20,8 @@ Piggy Bank, by the name of this app. It is an app for connecting the real device
   * Chart Representation using [Charts](https://github.com/danielgindi/Charts)
   * Data Persistance with [Realm Database](https://github.com/realm/realm-cocoa)
   * Writing Tests using [Quick](https://github.com/Quick/Quick) and [Nimble](https://github.com/Quick/Nimble)
+  
+![Coining](/Coining/coining-preview.jpg)
 
 ## Ubik
 Ubik is an Chatbot app that can recommend anything you wanted with AI and Machine Learning
